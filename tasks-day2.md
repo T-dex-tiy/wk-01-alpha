@@ -1,10 +1,10 @@
 _**All Wizardering Levels**_
 Without worrying about positioning, have fun styling your "wk-01-alpha" project, just ensure that you:
-- [ ] Include css in each of the three possible ways: imported, style element, embedded.
+- [x] Include css in each of the three possible ways: imported, style element, embedded.
 - Apply styles based on the following selectors and selector combinations:
-  - [ ] element
+  - [x] element
   - [ ] class
-  - [ ] id
+  - [x] id
   - [ ] distinct nested element and class combination (i.e. if applied to element
   - [ ] distinct nested element and class combination (i.e. if applied to element _or_ class _alone_ then additional nodes would be also be styled;  e.g. `p a`)
   - [ ] shared styles (e.g. `p, a`)
@@ -16,20 +16,20 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [ ] padding
   - [ ] border
   - [ ] border-radius
-  - [ ] background-color
+  - [x] background-color
   - [ ] background-image
-  - [ ] color
+  - [x] color
   - [ ] font-size
   - [ ] font-style
   - [ ] text-align
-  - [ ] font-weight
-  - [ ] text-decoration
+  - [x] font-weight
+  - [x] text-decoration
 - Use the following measurements at least once:
   - [ ] px
   - [ ] %
   - [ ] rem
   - [ ] em
-- [ ] Modify each of the four different anchor states
+- [x] Modify each of the four different anchor states
 - Make
   - [ ] small and frequent git commits
   - [ ] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
