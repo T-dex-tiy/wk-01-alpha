@@ -1,7 +1,11 @@
+body{
+  display: inline-block;
+}
 h2 {
   background-color:black;
   color:red;
 }
+
 #one {
   font:helvetica;
   font-weight: bold;
@@ -24,4 +28,15 @@ a:focus{
 }
 a:active{
  text-decoration: line-through;
+}
+.trendy h2{
+  font-size: 100px;
+  text-align: center;
+}
+.animals{
+  height:50%;
+  width:25%;
+}
+img{
+  align: left;
 }
