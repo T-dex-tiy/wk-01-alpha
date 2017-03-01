@@ -1,0 +1,10 @@
+ul.left-side{
+  float: left;
+  margin: 0 5px 5px 0;
+
+}
+ul.right-side{
+  float:right;
+  margin: 0 0 5px 5px;
+
+}
