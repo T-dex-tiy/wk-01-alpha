@@ -9,9 +9,9 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [ ] distinct nested element and class combination (i.e. if applied to element _or_ class _alone_ then additional nodes would be also be styled;  e.g. `p a`)
   - [ ] shared styles (e.g. `p, a`)
 - Add styling including at least one instance for each of these **properties**:
-  - [ ] width
-  - [ ] height
-  - [ ] display
+  - [x] width
+  - [x] height
+  - [x] display
   - [ ] margin
   - [ ] padding
   - [ ] border
@@ -26,12 +26,12 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [x] text-decoration
 - Use the following measurements at least once:
   - [x] px
-  - [ ] %
+  - [x] %
   - [ ] rem
   - [ ] em
 - [x] Modify each of the four different anchor states
 - Make
-  - [ ] small and frequent git commits
+  - [x] small and frequent git commits
   - [ ] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
 - [ ] Ensure you've set the GitHub pages to use your "master branch".
 
