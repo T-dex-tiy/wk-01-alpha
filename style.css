@@ -1,6 +1,5 @@
-body{
-  display: inline-block;
-}
+
+
 h2 {
   background-color:black;
   color:red;
@@ -39,7 +38,16 @@ a:active{
 }
 img{
   border: 2em solid white;
+  border-radius: 15px 10%;
   padding:1em;
   margin:2em;
   align:center;
+}
+h1, p{
+  color:darkgreen;
+  font-weight:600;
+  text-shadow: 1rem red;
+}
+p.trendy{
+  color:black;
 }
