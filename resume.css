@@ -5,13 +5,16 @@ ul{
 ul.left-side{
   float: left;
   margin: 0 0 0 0;
+  padding: 0;
 
 }
 ul.right-side{
   float:right;
-  margin: 0 0 20px 20px;
-
+  margin: 0 10px 10px 0;
 }
+/*.champ-listing{
+  text-align: center;
+}*/
 header{
   text-align:center;
   color:black;
