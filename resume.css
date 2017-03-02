@@ -61,11 +61,20 @@ footer{
   position: relative;
 
 }
-img{
-  width:25%;
-  height:25%;
-}
+img.black{
+    width:25%;
+    height:25%;
+    border: 2em solid lightslategray;
+    border-radius: 15px 10%;
 
+}
+img.white{
+    width:25%;
+    height:25%;
+    border: 2em solid black;
+    border-radius: 15px 10%;
+
+}
 
 .cf:before,
 .cf:after{
