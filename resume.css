@@ -1,3 +1,6 @@
+html, body, * {
+  box-sizing:border-box;
+}
 ul{
   list-style: none;
 }
@@ -12,14 +15,11 @@ ul.right-side{
   float:right;
   margin: 0 10px 10px 0;
 }
-/*.champ-listing{
-  text-align: center;
-}*/
+
 header{
   text-align:center;
   color:black;
   font-weight: bolder;
-
 }
 nav{
   font-size:2em;
@@ -67,14 +67,14 @@ footer{
 img.black{
     width:25%;
     height:25%;
-    border: 2em solid lightslategray;
+    border: 1px solid lightslategray;
     border-radius: 15px 10%;
 
 }
 img.white{
     width:25%;
     height:25%;
-    border: 2em solid black;
+    border: 1px solid black;
     border-radius: 15px 10%;
 
 }
